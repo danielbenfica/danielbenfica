@@ -11,6 +11,6 @@
 </aside>
 <aside>
   <h2 id="tecnologies"  style="text-align: center;">Tecnologias</h2>
-  <p> #javascript, #html, $css, #react, #bootstrap, #tailwind </p>
+  <p> #javascript, #html, #css, #react, #bootstrap, #tailwind </p>
 </aside>
 
