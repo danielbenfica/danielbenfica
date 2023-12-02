@@ -1,4 +1,5 @@
 <header>
+  <h1>Daniel Benfica</h1>
   <nav style="display: flex;">
     <li><a href="#about_me">Sobre mim</li>
     <li><a href="#tecnologies">Tecnologias</li>
